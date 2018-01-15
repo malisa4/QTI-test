@@ -1,0 +1,19 @@
+===Basis data pendaftaran
+
+== Struktur dari tabel daftar
+
+|------
+|Kolom|Jenis|Kosong|Bawaan
+|------
+|//**id**//|int(100)|Tidak|
+|nama|varchar(100)|Tidak|
+|user|varchar(100)|Tidak|
+|pass|varchar(100)|Tidak|
+|alamat|varchar(100)|Tidak|
+== Dumping data untuk tabel daftar
+
+|1|malisa huzaifa|lisa|12345|jl.Kidang Pananjung
+|2|rita rahmawati|rita|12345|parompong
+|3|ria chaniago|ria|45678|cimahi
+|4|Rizki Solahudin|Rizki|1234|Bandung
+|5|Hartono Diningrat|Hartono|34567|Yogyakarta
